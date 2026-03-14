@@ -76,6 +76,6 @@ term,spanish,cefr,pos,ipa_noun,ipa_verb,region_notes,accountant_warning,economis
 [🌐 **LIVE WIKI**](wiki) | [🏛️ **Legal-EdTech**](https://github.com/hernandez-jc/Legal-EdTech) | [💼 **Hiring**](wiki/Hiring-Pitch)
 
 ---
-**Juan C. Hernandez | Economist | ESl Specialist Cambridge CELTA | Localization Specialist Eng-Spa |**
+**Juan C. Hernandez | Economist | LMS and Training Analytics | ESl EFL Specialist Cambridge CELTA | Localization Specialist Eng-Spa |**
 
 
